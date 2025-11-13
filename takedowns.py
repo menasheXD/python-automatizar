@@ -11,7 +11,7 @@ while True:
     pyautogui.moveTo(x=775, y=171)
     pyautogui.click(x=775, y=171)
 
-    time.sleep(22)
+    time.sleep(20)
     pyautogui.moveTo(x=719, y=367)
     pyautogui.press("3")
     pyautogui.click(x=719, y=367)
