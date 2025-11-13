@@ -15,3 +15,7 @@ print(pyautogui.position())
 #  depois dos primeiros 22s colocar o gerador de dinheiro dps mais 22s colocar o grift depois de 1,05min clicar no ponto denovo para ativar a abilidade e dps de 2s colocar Jinwu logo em seguida dps de mais 1.02min colocar as duas ultimas unidades que faltam e upar todas de 21s a 21s 
 pyautogui.moveTo()
 pyautogui.press("t")
+
+# x=719, y=367 = bruxa e hollow knigth
+# x=557, y=352
+# botão tentar novamente modo infinito = x=649, y=616
