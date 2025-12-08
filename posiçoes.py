@@ -1,8 +1,8 @@
 import pyautogui
 import time
 
-time.sleep(4)
-print(pyautogui.position())
+#time.sleep(4)
+#print(pyautogui.position())
 
 # x=499, y=353 = posiçao do grift/ x=442, y=355 poder que upa o grift
 # x=588, y=358 = posição do gerador de dinheiro
@@ -14,7 +14,47 @@ print(pyautogui.position())
 #  Cada onda dura 20s e o apocalipse dura 1min ent:
 #  depois dos primeiros 22s colocar o gerador de dinheiro dps mais 22s colocar o grift depois de 1,05min clicar no ponto denovo para ativar a abilidade e dps de 2s colocar Jinwu logo em seguida dps de mais 1.02min colocar as duas ultimas unidades que faltam e upar todas de 21s a 21s 
 pyautogui.moveTo()
-pyautogui.press("t")
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")  
+pyautogui.press("f")  
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")
+pyautogui.press("f")
 
 # x=719, y=367 = bruxa e hollow knigth
 # x=557, y=352
