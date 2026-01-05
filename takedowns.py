@@ -56,7 +56,7 @@ while True:
     pyautogui.click(x=881, y=322)
     time.sleep(1)
     pyautogui.click(x=719, y=367)
-    time.sleep(370)
+    time.sleep(250)
     pyautogui.click(x=969, y=464)
     time.sleep(1)
     pyautogui.click(x=969, y=464)
